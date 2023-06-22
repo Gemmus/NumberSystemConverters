@@ -30,7 +30,7 @@ int main()
         }
     }
 
-    onesComp[SIZE] = '\0';
+    onesComp[SIZE] = '\0'; //Marks the end of the string
 
     if(error == 0)
     {
